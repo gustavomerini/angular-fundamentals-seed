@@ -1,0 +1,7 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": 0,
+  "prettier.tabWidth": 4,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true
+}
